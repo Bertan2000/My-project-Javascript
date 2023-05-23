@@ -1,4 +1,4 @@
-requestAnimationFrame([
+request([
     "esri/config",
     "esri/WebMap",
     "esri/views/MapView",
